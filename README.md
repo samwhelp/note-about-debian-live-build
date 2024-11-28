@@ -70,6 +70,15 @@
 | [live-config](https://salsa.debian.org/live-team/live-config) |
 
 
+> clone
+
+``` sh
+git clone https://salsa.debian.org/live-team/live-build.git
+git clone https://salsa.debian.org/live-team/live-boot.git
+git clone https://salsa.debian.org/live-team/live-config.git
+```
+
+
 
 
 ## 相關筆記
