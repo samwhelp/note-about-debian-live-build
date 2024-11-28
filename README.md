@@ -24,8 +24,7 @@
 
 | 實作案例 |
 | ------- |
-| [Eznix OS 探索筆記](https://samwhelp.github.io/note-about-lika-live-build-config/) |
-| [](https://samwhelp.github.io/note-about-eznixos/) |
+| [Eznix OS 探索筆記](https://samwhelp.github.io/note-about-eznixos/) |
 | [Lika OS / Live Build Config / 探索筆記](https://samwhelp.github.io/note-about-lika-live-build-config/) |
 | [Lingmo OS / Live Build Config / 探索筆記](https://samwhelp.github.io/note-about-lingmo-live-build-config/) |
 | [Kali OS / Live Build Config / 探索筆記](https://samwhelp.github.io/note-about-kali-live-build-config/) |
