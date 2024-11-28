@@ -14,12 +14,52 @@
 ## 主題
 
 * [實作案例](#實作案例)
+* [The Debian Live Project](#the-debian-live-project)
 * [相關筆記](#相關筆記)
 
 
 
 
 ## 實作案例
+
+| 實作案例 |
+| ------- |
+| [EznixOS 探索筆記](https://samwhelp.github.io/note-about-lika-live-build-config/) |
+| [](https://samwhelp.github.io/note-about-eznixos/) |
+| [Lika OS / Live Build Config / 探索筆記](https://samwhelp.github.io/note-about-lika-live-build-config/) |
+| [Lingmo OS / Live Build Config / 探索筆記](https://samwhelp.github.io/note-about-lingmo-live-build-config/) |
+
+
+
+
+## The Debian Live Project
+
+| Debian |
+| ----------- |
+| [The Debian Live Project](https://www.debian.org/devel/debian-live/) |
+
+
+| Debian Wiki |
+| ----------- |
+| [DebianLive](https://wiki.debian.org/DebianLive) |
+
+
+| Debian Live Manual |
+| ------------------ |
+| [Debian Live Manual](https://live-team.pages.debian.net/live-manual/) |
+| [English](https://live-team.pages.debian.net/live-manual/html/live-manual/index.en.html) |
+
+
+| Debian Salsa Group |
+| ---- |
+| [live-team](https://salsa.debian.org/live-team/)
+
+
+| Debian Live Team |
+| ---- |
+| [live-build](https://salsa.debian.org/live-team/live-build) |
+| [live-boot](https://salsa.debian.org/live-team/live-boot) |
+| [live-config](https://salsa.debian.org/live-team/live-config) |
 
 
 
