@@ -30,6 +30,7 @@
 | [Lingmo OS / Live Build Config / 探索筆記](https://samwhelp.github.io/note-about-lingmo-live-build-config/) |
 | [Kali OS / Live Build Config / 探索筆記](https://samwhelp.github.io/note-about-kali-live-build-config/) |
 | [Spiral linux / Live Build Config / 探索筆記](https://samwhelp.github.io/note-about-spiral-live-build-config/) |
+| [Debian / Live Build Config / 探索筆記](https://samwhelp.github.io/note-about-debian-live-build-config/) |
 
 
 | 實作案例 | GitHub | GitLab |
