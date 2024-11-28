@@ -24,10 +24,17 @@
 
 | 實作案例 |
 | ------- |
-| [EznixOS 探索筆記](https://samwhelp.github.io/note-about-lika-live-build-config/) |
+| [Eznix OS 探索筆記](https://samwhelp.github.io/note-about-lika-live-build-config/) |
 | [](https://samwhelp.github.io/note-about-eznixos/) |
 | [Lika OS / Live Build Config / 探索筆記](https://samwhelp.github.io/note-about-lika-live-build-config/) |
 | [Lingmo OS / Live Build Config / 探索筆記](https://samwhelp.github.io/note-about-lingmo-live-build-config/) |
+| [Kali OS / Live Build Config / 探索筆記](https://samwhelp.github.io/note-about-kali-live-build-config/) |
+| [Spiral linux / Live Build Config / 探索筆記](https://samwhelp.github.io/note-about-spiral-live-build-config/) |
+
+
+| 實作案例 | GitHub | GitLab |
+| ------- | ------ | ------ |
+| [debian-live-config](https://debian-live-config.readthedocs.io/en/latest/) | [GitHub](https://github.com/nodiscc/debian-live-config) | [GitLab](https://gitlab.com/nodiscc/debian-live-config) |
 
 
 
