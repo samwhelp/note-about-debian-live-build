@@ -7,6 +7,7 @@
 ## # User Change Password
 ##
 
+set -e
 
 ##
 ## ## Main / Init
