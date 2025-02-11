@@ -80,6 +80,16 @@ git clone https://salsa.debian.org/live-team/live-config.git
 
 
 
+## Project
+
+| Project |
+| ------- |
+| [user-change-password](https://github.com/samwhelp/note-about-debian-live-build/tree/gh-pages/_demo/project/user-change-password) |
+| [dm-control](https://github.com/samwhelp/note-about-debian-live-build/tree/gh-pages/_demo/project/dm-control) |
+
+
+
+
 ## 相關筆記
 
 | Link | GitHub |
